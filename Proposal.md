@@ -7,20 +7,20 @@ TECHNICAL STACK:
 
 1. Angular 8  vs React 16 
 
--- 2 Way Data binding enables synchronization to make more interactive applications 
+   A) 2 Way Data binding enables synchronization to make more interactive applications 
 
--- Supports TagsComponent to add skills as tags to a job or a candidate
+   B) Supports TagsComponent to add skills as tags to a job or a candidate 
 
--- Supports Dependency Injection that helps create loosely coupled components. That enables you to replace dependencies without changing the class that uses them. It also reduces the risk that you have to change a class just because one of its dependencies changed. 
+   C) Supports Dependency Injection that helps create loosely coupled components. That enables you to replace dependencies without    changing the class that uses them. It also reduces the risk that you have to change a class just because one of its dependencies changed. 
 
 2. JAVA vs PYTHON 
 
--- Java Spring Boot + Spring Security OAuth 2.0 to create RESTful API's 
+   A) Java Spring Boot + Spring Security OAuth 2.0 to create RESTful API's 
 
--- Why Spring Boot? 
+   B) Why Spring Boot? 
    Spring Boot just decides on a set of default configured beans which you scan override if you want.
 
-   For example if you include the spring boot starter pom for jpa, you'll get autoconfigured for you an in memory database, a hibernate entity manager, and a simple datasource. This is an example of an opinionated (Spring's opinion that it's a good starting point) default configuration that you can override.
+   For example if you include the spring boot starter pom for jpa, you'll get autoconfigured for you an in memory database, a hibernate    entity manager, and a simple datasource. This is an example of an opinionated (Spring's opinion that it's a good starting point)     default configuration that you can override.
 
 3. Spring Data JPA 
 
